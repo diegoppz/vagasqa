@@ -5,7 +5,8 @@
 
 No link abaixo é possivel consultar uma base de dados armazanada no notion onde é possível visualizar informações relacionadas a vagas disponíveis para a área de qualidade e testes de software em diversas empresas.
 
-| Principais dados relacioados |  
+| Principais dados relacioados |
+| -------- |
 | 1 - Cargo |  
 2 - Senioridade
 3 - Contrato
