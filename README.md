@@ -5,6 +5,8 @@
 
 No link abaixo é possivel consultar uma base de dados armazanada no notion onde é possível visualizar informações relacionadas a vagas disponíveis para a área de qualidade e testes de software em diversas empresas.
 
+[Qualidade de software / Testes / QA](https://diegow.notion.site/QA-Vagas-3579a977d4614a9e95c022f93d45d8ed?pvs=4)
+
 | Principais dados relacioados |
 | -------- |
 | 1 - Cargo |  
@@ -28,7 +30,7 @@ No link abaixo é possivel consultar uma base de dados armazanada no notion onde
 16 - Publicação
 17 - Candidatos
 
-[Qualidade de software / Testes / QA](https://diegow.notion.site/QA-Vagas-3579a977d4614a9e95c022f93d45d8ed?pvs=4)
+
 
 
 
